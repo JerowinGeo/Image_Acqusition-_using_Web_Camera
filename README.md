@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cc8b3ab5-9157-4fa2-b2e7-d1e624e62561)# Image Acquisition using Web Camera
+# Image Acquisition using Web Camera
 
 ### DATE:
 
