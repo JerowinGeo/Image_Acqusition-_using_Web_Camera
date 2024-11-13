@@ -1,4 +1,4 @@
-# Image Acquisition using Web Camera
+![image](https://github.com/user-attachments/assets/cc8b3ab5-9157-4fa2-b2e7-d1e624e62561)# Image Acquisition using Web Camera
 
 ### DATE:
 
@@ -167,7 +167,9 @@ cv2.destroyAllWindows()
 
 ### iv) Rotate and display the video
 
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/5b2279d3-90b5-4794-b255-eb7322a70c89)
+
 
 
 
